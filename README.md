@@ -5,8 +5,7 @@ time-series data to identify unusual consumption patterns, out-of-hours energy
 waste and short-term consumption behaviour.
 
 It is inspired by building performance intelligence use cases such as energy
-monitoring, anomaly detection, operational reporting and ESG analytics. It does
-not use private Utopi data.
+monitoring, anomaly detection, operational reporting and ESG analytics.
 
 ![Daily portfolio electricity trend](assets/daily_portfolio_energy.png)
 
