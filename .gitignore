@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Public source data is downloaded locally and not committed.
+data/raw/*.csv
+data/raw/*.zip
+
+# Generated analysis outputs.
+outputs/figures/*.png
+outputs/reports/*.md
+outputs/reports/*.csv
+outputs/reports/*.json
+outputs/*.csv
