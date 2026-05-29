@@ -9,11 +9,6 @@ monitoring, anomaly detection, operational reporting and ESG analytics.
 
 ![Daily portfolio electricity trend](assets/daily_portfolio_energy.png)
 
-## Business Question
-
-Can building meter, metadata and weather time-series data be used to identify
-energy anomalies, out-of-hours waste and short-term consumption patterns?
-
 ## Dataset
 
 The project uses the public **Building Data Genome Project 2** dataset.
